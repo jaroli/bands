@@ -5,6 +5,7 @@
   -input: OUTCAR, KPOINTS, EIGENVAL
 
   -use scale=1.0 in your POSCAR to avoid confusion
+ i changed this
 */
 
 
