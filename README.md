@@ -1,4 +1,3 @@
-# bands
 The bands program is used to plot band structures calculated with the [Vienna Ab initio Simulation Package](http://vasp.at).
 
 # Installation
