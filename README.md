@@ -20,4 +20,5 @@ actuall graph as `bands.eps`.
 # Limitations
 Use scale=1.0 in your POSCAR to avoid confusion with units.
 
-
+# Example
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
