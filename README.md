@@ -21,4 +21,5 @@ actuall graph as `bands.eps`.
 Use scale=1.0 in your POSCAR to avoid confusion with units.
 
 # Example
-![FCC silicon band structure](./example/bands.png)
+Silicon FCC band structure.
+![silicon bands](./example/bands.png)
