@@ -21,4 +21,4 @@ actuall graph as `bands.eps`.
 Use scale=1.0 in your POSCAR to avoid confusion with units.
 
 # Example
-![](https://github.com/jaroli/bands/tree/master/example/bands.png)
+![frog](https://github.com/jaroli/bands/tree/master/example/bands.png)
