@@ -21,4 +21,4 @@ actuall graph as `bands.eps`.
 Use scale=1.0 in your POSCAR to avoid confusion with units.
 
 # Example
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![](https://github.com/jaroli/bands/tree/master/example/bands.png)
